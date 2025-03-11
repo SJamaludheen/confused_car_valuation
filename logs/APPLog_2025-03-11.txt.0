@@ -1,0 +1,8 @@
+Car registration number J123 NMK from the input file do not match the expected UK vehicle registration number pattern.
+Expected 'Model' of the car AD58 VNF do not match the actual model value on the website. Expected : 120D M SPORT. Actual : 1 SERIES 120D M SPORT.
+Error returned for registration number BW57 BOW : We couldn't find a vehicle with the registration BW57 BOW.
+Check if the registration is correct or try again.
+Error returned for registration number SG18 HTN : We couldn't find a vehicle with the registration SG18 HTN.
+Check if the registration is correct or try again.
+Expected 'Model' of the car KT17 DLX do not match the actual model value on the website. Expected : SUPERB SPORTLINE TDI S-A. Actual : SUPERB SPORTLINE.
+No car records/details found for LT20 MVV in the 'car_output - V6.txt' file.
